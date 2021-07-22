@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUI68K - Real life Allan Nyholm
+- 👋 Hi, I’m @mongoliving - in real life my name is Allan Nyholm Nielsen
 - 👀 I’m interested in ... macOS theming such as icons, themes, wallpaper, skins and cursors
 - 🌱 I’m currently learning ... how to code and use better tools for designing
 - 💞️ I’m looking to collaborate on ...
